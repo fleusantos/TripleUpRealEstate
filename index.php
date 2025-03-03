@@ -604,7 +604,7 @@ $isAdmin = $isLoggedIn && isset($_SESSION['user_role']) && $_SESSION['user_role'
                             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                                 <div class="mb-4">
                                     <h1 class="mb-3">Contact With Our Certified Agent</h1>
-                                    <p>Eirmod sed ipsum dolor sit rebum magna erat. Tempor lorem kasd vero ipsum sit sit diam justo sed vero dolor duo.</p>
+                                    <p>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor lorem kasd vero ipsum sit sit diam justo sed rebum.</p>
                                 </div>
                                 <a href="" class="btn btn-primary py-3 px-4 me-2"><i class="fa fa-phone-alt me-2"></i>Make A Call</a>
                                 <a href="" class="btn btn-dark py-3 px-4"><i class="fa fa-calendar-alt me-2"></i>Get Appoinment</a>
@@ -751,10 +751,10 @@ $isAdmin = $isLoggedIn && isset($_SESSION['user_role']) && $_SESSION['user_role'
                     <div class="col-lg-3 col-md-6">
                         <h5 class="text-white mb-4">Quick Links</h5>
                         <a class="btn btn-link text-white-50" href="about.php">About Us</a>
-                        <a class="btn btn-link text-white-50" href="contact.html">Contact Us</a>
+                        <a class="btn btn-link text-white-50" href="contact.php">Contact Us</a>
                         <a class="btn btn-link text-white-50" href="privacy.html">Privacy Policy</a>
                         <a class="btn btn-link text-white-50" href="terms.html">Terms &amp; Condition</a>
-                        <a class="btn btn-link text-white-50" href="contact.html">Contact</a>
+                        <a class="btn btn-link text-white-50" href="contact.php">Contact</a>
                     </div>
                 </div>
             </div>

@@ -156,7 +156,7 @@ $isAdmin = $isLoggedIn && isset($_SESSION['user_role']) && $_SESSION['user_role'
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Quick Links</h5>
                     <a class="btn btn-link text-white-50" href="about.php">About Us</a>
-                    <a class="btn btn-link text-white-50" href="contact.html">Contact Us</a>
+                    <a class="btn btn-link text-white-50" href="contact.php">Contact Us</a>
                     <a class="btn btn-link text-white-50" href="privacy.html">Privacy Policy</a>
                     <a class="btn btn-link text-white-50" href="terms.html">Terms &amp; Condition</a>
                 </div>
